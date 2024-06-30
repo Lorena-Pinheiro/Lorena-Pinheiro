@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-my name Lorena and I'm a developer
+my name is Lorena and I'm a developer
 
 - 🔭 I’m currently working front-end.
 - 🌱 I also study web development.
