@@ -11,17 +11,20 @@
 <br />
 
 <!-- CARD PROFILE -->
-<table align="left" width="30%">
+<table align="left" width="10%">
 <tr>
-<td bgcolor="#b52b23" height="22" colspan="2">
+<td bgcolor="#b52b23" height="22" >
 <b>Lorena-Pinheiro</b>
+</td>
+<td bgcolor="#b52b23" height="22">
+<b>About Me</b>
 </td>
 </tr>
 
 <tr>
-<td>
+<!-- <td>
 <img src="./assets/gifs/catTyping.gif" width="160" height="145" alt="Cat typing"/>
-</td>
+</td> -->
 <td>
 <p>"Na minha máquina funciona"</p>
 <p>
@@ -32,13 +35,30 @@ Brazil
 </p>
 <p>Last Login: 03/03/2005</p>
 </td>
+
+<td>
+<strong>Hellous, my name’s Lorena but you can call me Lory :D</strong>
+<br/>
+<br/>
+<p>
+I’m a brazilian developer currently working as a junior fullstack.<br/>
+I've been obsessed with computers since forever, from playing<br/>
+random flash games in the browser to now making websites and<br/>
+wondering why my code stopped working. I like making websites<br/>
+with old internet aesthetics, learning about cybersecurity,<br/>
+playing OSU/Minecraft, fantasy stories, romcoms,drawing,<br/>
+and collecting way too many design references.<br/>
+PHP was my first language, so unfortunately we're emotionally<br/>
+attached now.
+</p>
+</td>
 </tr>
 </table>
 <!-- END CARD PROFILE -->
 
 
 <!-- ABOUT ME -->
-<table align="right" width="45%">
+<!-- <table align="right" width="10%">
 <tr>
 <td bgcolor="#b52b23" height="22" colspan="8">
 <b>About me</b>
@@ -46,17 +66,9 @@ Brazil
 </tr>
 
 <tr>
-<td>
-<strong>Hellous, my name’s Lorena but you can call me Lory :D</strong>
-<br/>
-<br/>
-<p>I’m a brazilian developer currently working as a junior fullstack.</p>
-<p>I've been obsessed with computers since forever, from playing random flash games in the browser to now making websites and wondering why my code stopped working</p>
-<p>I like making websites with old internet aesthetics, learning about cybersecurity, playing OSU/Minecraft, fantasy stories, romcoms, drawing, and collecting way too many design references.</p>
-<p>PHP was my first language, so unfortunately we're emotionally attached now.</p>
-</td>
+
 </tr>
-</table>
+</table> -->
 <!-- END ABOUT ME -->
 
 <!-- </div> END TOP  -->
