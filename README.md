@@ -10,22 +10,20 @@
 <div align="center">  <!-- TOP  -->
 <br />
 
-<!-- CARD PROFILE -->
-<table align="left" width="10%">
+<!-- PROFILE -->
+<table align="left">
 <tr>
-<td bgcolor="#b52b23" height="22" >
+<td>
 <b>Lorena-Pinheiro</b>
 </td>
-<td bgcolor="#b52b23" height="22">
+<td>
 <b>About Me</b>
 </td>
 </tr>
 
 <tr>
-<!-- <td>
-<img src="./assets/gifs/catTyping.gif" width="160" height="145" alt="Cat typing"/>
-</td> -->
 <td>
+<img src="./assets/gifs/catTyping.gif" width="284" alt="Cat typing"/>
 <p>"Na minha máquina funciona"</p>
 <p>
 Female<br>
@@ -54,42 +52,8 @@ attached now.
 </td>
 </tr>
 </table>
-<!-- END CARD PROFILE -->
+<!-- END PROFILE -->
 
-
-<!-- ABOUT ME -->
-<!-- <table align="right" width="10%">
-<tr>
-<td bgcolor="#b52b23" height="22" colspan="8">
-<b>About me</b>
-</td>
-</tr>
-
-<tr>
-
-</tr>
-</table> -->
-<!-- END ABOUT ME -->
-
-<!-- </div> END TOP  -->
-
-
-<!-- SPACE -->
-<!-- <br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/> -->
-<!-- SPACE -->
-
-
-<!-- <div align="center"> MIDDLE -->
 
 <!-- LEFT -->
 <!-- CONTACT -->
@@ -128,7 +92,7 @@ attached now.
 
 
 <!-- PROJECTS -->
-<table align="right" width="55%">
+<table align="right">
 <tr>
 <td bgcolor="#b52b23" height="22" colspan="8">
 <b>Lorena’s Latest Projects</b>
@@ -138,12 +102,12 @@ attached now.
 <tr>
 <td>
 <a href="https://github.com/Lorena-Pinheiro/Laranet"><strong>Laranet</strong></a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-A PHP framework built from scratch for learning, inspired by Laravel and .NET (hence the name :P)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+A PHP framework built from scratch for learning,<br/>inspired by Laravel and .NET (hence the name :P)
 <br>
 <a href="https://github.com/VoucherDesenvSenacHub/SOSpatinhas"><strong>SOSPatinhas</strong></a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Final Project for the Senac Voucher Desenvolvedor course. Website for a fictional ONG de animais
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Final Project for the Senac Voucher Desenvolvedor course.<br/>Website for a fictional ONG de animais
 </td>
 </tr>
 </table>
@@ -151,9 +115,9 @@ Final Project for the Senac Voucher Desenvolvedor course. Website for a fictiona
 
 
 <!-- SKILLS -->
-<table align="left" width="20%">
+<table align="left">
 <tr>
-<td bgcolor="#b52b23" height="22" colspan="8">
+<td>
 <b>Lorena’s Skills</b>
 </td>
 </tr>
@@ -161,10 +125,10 @@ Final Project for the Senac Voucher Desenvolvedor course. Website for a fictiona
 <tr>
 <td>
 <p>
-<strong>Frontend:</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Angular, React<br />
-<strong>Backend:</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Laravel, .Net<br />
-<strong>Database:</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;MySql, SQLServer<br />
-<strong>Languages:</strong>&nbsp;&nbsp;&nbsp;&nbsp;PHP, C, C#, Python, Javascript, Typescript<br />
+<strong>Frontend:</strong> Angular, React<br/>
+<strong>Backend:</strong> Laravel, .Net<br/>
+<strong>Database:</strong> MySql, SQLServer<br/>
+<strong>Languages:</strong> PHP, C, C#,<br/>Python, Javascript, Typescript
 </p>
 </td>
 </tr>
@@ -173,24 +137,20 @@ Final Project for the Senac Voucher Desenvolvedor course. Website for a fictiona
 
 
 <!-- MUSIC -->
-<table align="right" width="55%">
+<table align="right">
 <tr>
-<td bgcolor="#b52b23" height="22" colspan="8">
+<td colspan="8">
 <b>Lorena’s Music</b>
 </td>
 </tr>
 
 <tr>
-<td align="center">
-<a href="https://youtu.be/xaJDTZjh5Po?si=WKE1mzkSSshsYeYA">
-<img src="./assets/images/atc.png" width="30%">
-</a>
-<a href="https://youtu.be/ogr8vMCoDgU?si=YvtBQuQojlLlQqCB">
-<img src="./assets/images/s3rl.png" width="30%">
-</a>
-<a href="https://youtu.be/ou28lmZDR-A?si=0vwvkK5gLtcWYaaV">
-<img src="./assets/images/atb.png" width="30%">
-</a>
+<td>
+<a href="https://youtu.be/xaJDTZjh5Po?si=WKE1mzkSSshsYeYA"><img width="174" src="./assets/images/atc.png" alt="gravena" /></a>
+<a href="https://youtu.be/ogr8vMCoDgU?si=YvtBQuQojlLlQqCB"><img width="174" src="./assets/images/s3rl.png" alt="gravena" /></a>
+<a href="https://youtu.be/ou28lmZDR-A?si=0vwvkK5gLtcWYaaV"><img width="174" src="./assets/images/atb.png" alt="gravena" /></a>
+<br/>
+&nbsp;
 </td>
 </tr>
 </table>
@@ -198,9 +158,9 @@ Final Project for the Senac Voucher Desenvolvedor course. Website for a fictiona
 
 
 <!-- LANGUAGES -->
-<table align="left" width="20%">
+<table align="left">
 <tr>
-<td bgcolor="#b52b23" height="22" colspan="8">
+<td colspan="8">
 <b>Lorena’s Languages Skills</b>
 </td>
 </tr>
@@ -208,13 +168,13 @@ Final Project for the Senac Voucher Desenvolvedor course. Website for a fictiona
 <tr>
 <td>
 <p>
-<strong>Portuguese</strong><span>&nbsp;&nbsp;&nbsp;&nbsp;</span> 
+<strong>Portuguese</strong><span>&nbsp;&nbsp;</span> 
 <img src="./assets/images/ptBrLvl.png" alt="PT BR level" /> 
 <br>
-<strong>English</strong><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> 
+<strong>English</strong><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> 
 <img src="./assets/images/engLvl.png" alt="PT BR level" /> 
 <br>
-<strong>Japanese</strong><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> 
+<strong>Japanese</strong><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> 
 <img src="./assets/images/jpLvl.png" alt="PT BR level" /> 
 </p>
 </td>
@@ -233,28 +193,28 @@ Final Project for the Senac Voucher Desenvolvedor course. Website for a fictiona
 
 <tr>
 <td>
-<a href="https://github.com/Yasmin-Leticia">Yasmin<br><img width="50%" src="https://avatars.githubusercontent.com/u/168841986?v=4" alt="yasmin" /></a>
+<a href="https://github.com/Yasmin-Leticia">Min<br><img width="40" src="https://avatars.githubusercontent.com/u/168841986?v=4" alt="yasmin" /></a>
 </td>
 <td>
-<a href="https://github.com/iz4bella">Bella<br><img width="50%" src="https://avatars.githubusercontent.com/u/168841645?v=4" alt="bella" /></a>
+<a href="https://github.com/iz4bella">Bela<br><img width="40" src="https://avatars.githubusercontent.com/u/168841645?v=4" alt="bella" /></a>
 </td>
 <td>
-<a href="https://github.com/KauaOSantos">Kauã<br><img width="50%" src="https://avatars.githubusercontent.com/u/168841427?v=4" alt="kaua" /></a>
+<a href="https://github.com/KauaOSantos">Kauã<br><img width="40" src="https://avatars.githubusercontent.com/u/168841427?v=4" alt="kaua" /></a>
 </td>
 <td>
-<a href="https://github.com/augustocesarsouza">Augusto<br><img width="50%" src="https://avatars.githubusercontent.com/u/92819550?v=4" alt="augusto" /></a>
+<a href="https://github.com/augustocesarsouza">Guto<br><img width="40" src="https://avatars.githubusercontent.com/u/92819550?v=4" alt="augusto" /></a>
 </td>
 <td>
-<a href="https://github.com/Tewdric">Manoel<br><img width="50%" src="https://avatars.githubusercontent.com/u/140553447?v=4" alt="manoel" /></a>
+<a href="https://github.com/Tewdric">Manoel<br><img width="40" src="https://avatars.githubusercontent.com/u/140553447?v=4" alt="manoel" /></a>
 </td>
 <td>
-<a href="https://github.com/Marllon-Wski">Marllon<br><img width="50%" src="https://avatars.githubusercontent.com/u/100104015?v=4" alt="marllon" /></a>
+<a href="https://github.com/Marllon-Wski">Marllon<br><img width="40" src="https://avatars.githubusercontent.com/u/100104015?v=4" alt="marllon" /></a>
 </td>
 <td>
-<a href="https://github.com/GravenaBarros">Gravena<br><img width="50%" src="https://avatars.githubusercontent.com/u/132004805?v=4" alt="gravena" /></a>
+<a href="https://github.com/GravenaBarros">Gravena<br><img width="40" src="https://avatars.githubusercontent.com/u/132004805?v=4" alt="gravena" /></a>
 </td>
 <td>
-<a href="https://github.com/bycato">Cato<br><img width="50%" src="https://avatars.githubusercontent.com/u/201806339?v=4" alt="cato" /></a>
+<a href="https://github.com/bycato">Cato<br><img width="40" src="https://avatars.githubusercontent.com/u/201806339?v=4" alt="cato" /></a>
 </td>
 </tr>
 </table>
