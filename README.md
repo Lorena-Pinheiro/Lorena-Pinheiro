@@ -196,8 +196,8 @@ course. Website for a fictional ONG de animais
 <td>
 <a href="https://github.com/augustocesarsouza">Guto<br><img width="38" src="https://avatars.githubusercontent.com/u/92819550?v=4" alt="augusto" /></a>
 </td>
-<!-- </tr>
-<tr> -->
+</tr>
+<tr>
 <td>
 <a href="https://github.com/Tewdric">Manoel<br><img width="38" src="https://avatars.githubusercontent.com/u/140553447?v=4" alt="manoel" /></a>
 </td>
