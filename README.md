@@ -251,6 +251,17 @@ course. Website for a fictional ONG de animais
   <!-- END ENTRY -->
 </table>
 <!-- END GUESTBOOK -->
+<br/>
+<br/>
+
+<!-- INSPIRED BY -->
+<p>Profile inspired by: 
+<a href="https://github.com/BrunnerLivio">Livio Brunner</a>, 
+<a href="https://github.com/fnky">Christian Petersen</a>, 
+<a href="https://github.com/ram6738">commitSpring</a>,
+<a href="https://github.com/ibtriz">Beatriz</a>
+</p>
+<!-- END INSPIRED BY -->
 </div>
 
 </div>
