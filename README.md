@@ -214,7 +214,7 @@ course. Website for a fictional ONG de animais
 </table>
 <!-- END FRIENDS -->
 
-<p><img src="./assets/gifs/blue.gif" width="200" alt="Blue"/></p>
+<p><img src="./assets/gifs/blue.gif" width="150" alt="Blue"/></p>
 
 <!-- GUESTBOOK -->
 <table align="center">
