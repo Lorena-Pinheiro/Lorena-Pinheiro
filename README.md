@@ -182,9 +182,9 @@ course. Website for a fictional ONG de animais
 
 
 <!-- FRIENDS -->
-<table align="right" width="55%">
+<table align="right">
 <tr>
-<td bgcolor="#b52b23" height="22" colspan="8">
+<td colspan="8">
 <b>Lorena’s Friend Space (Top 8)</b>
 </td>
 </tr>
@@ -202,6 +202,8 @@ course. Website for a fictional ONG de animais
 <td>
 <a href="https://github.com/augustocesarsouza">Guto<br><img width="40" src="https://avatars.githubusercontent.com/u/92819550?v=4" alt="augusto" /></a>
 </td>
+</tr>
+<tr>
 <td>
 <a href="https://github.com/Tewdric">Manoel<br><img width="40" src="https://avatars.githubusercontent.com/u/140553447?v=4" alt="manoel" /></a>
 </td>
