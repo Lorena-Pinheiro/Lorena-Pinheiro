@@ -227,7 +227,14 @@ course. Website for a fictional ONG de animais
 </tr>
 
 <!-- ENTRY -->
-<!-- END ENTRY -->
+
+  <tr>
+  <td><img width="80" src="https://avatars.githubusercontent.com/u/92819550?v=4" alt="augustocesarsouza"/></td>
+  <td>
+  <p><a href="https://github.com/Lorena-Pinheiro/Lorena-Pinheiro/issues/1#issuecomment-5734629028"><strong>augustocesarsouza • 18/09/2026</strong></a><br/>a lorena é muito ruim programadora!!</p>
+  </td>
+  </tr>
+  <!-- END ENTRY -->
 </table>
 <!-- END GUESTBOOK -->
 </div>
