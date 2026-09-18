@@ -59,11 +59,11 @@ jobs:
               const avatar = comment.user.avatar_url;
               const date = formatDate(comment.created_at);
               const text = escapeHtml(comment.body).replace(/\r?\n/g, '<br/>');
-              const url = comment.html_url;
+              const url = comment.user.html_url;
 
               return `
               <tr>
-              <td><img width="80" src="${avatar}" alt="${user}"/></td>
+              <td><img width="60" src="${avatar}" alt="${user}"/></td>
               <td>
               <p><a href="${url}"><strong>${user} • ${date}</strong></a><br/>${truncateString(text, 125)}</p>
               </td>
