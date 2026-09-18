@@ -6,7 +6,6 @@
 <img src="./assets/borders/right.png" width="8.546875%" align="right" alt="Right Banner" />
 
 <!-- <div> CONTENT  -->
-
 <div align="center">  <!-- TOP  -->
 <br />
 
@@ -51,11 +50,10 @@ attached now.
 <!-- END PROFILE -->
 
 
-<!-- LEFT -->
 <!-- CONTACT -->
-<table align="left" width="20%">
+<table align="left">
 <tr>
-<td bgcolor="#b52b23">
+<td>
 <b>Contacting Lorena</b>
 </td>
 </tr>
@@ -63,10 +61,10 @@ attached now.
 <tr>
 <td>
 <p>
-<!-- Discord -->
-<img src="./assets/images/discord.png" alt="Discord Logo" /> 
+<!-- Linkedin -->
+<img src="./assets/images/linkedin.png" alt="Gmail Logo" /> 
 <a href="#">
-<strong>Lorys</strong>
+<strong>Lorena Pinheiro</strong>
 <br>
 
 <!-- Gmail -->
@@ -75,11 +73,10 @@ attached now.
 <strong>loryfpinheiro@gmail.com</strong>
 <br>
 
-<!-- Linkedin -->
-<img src="./assets/images/linkedin.png" alt="Gmail Logo" /> 
+<!-- Discord -->
+<img src="./assets/images/discord.png" alt="Discord Logo" /> 
 <a href="#">
-<strong>Lorena Pinheiro</strong>
-<br>
+<strong>Lorys</strong>
 </p>
 </td>
 </tr>
@@ -90,7 +87,7 @@ attached now.
 <!-- PROJECTS -->
 <table align="right">
 <tr>
-<td bgcolor="#b52b23" height="22" colspan="8">
+<td>
 <b>Lorena’s Latest Projects</b>
 </td>
 </tr>
@@ -137,7 +134,7 @@ course. Website for a fictional ONG de animais
 <!-- MUSIC -->
 <table align="right">
 <tr>
-<td colspan="8">
+<td>
 <b>Lorena’s Music</b>
 </td>
 </tr>
@@ -158,7 +155,7 @@ course. Website for a fictional ONG de animais
 <!-- LANGUAGES -->
 <table align="left">
 <tr>
-<td colspan="8">
+<td>
 <b>Lorena’s Languages Skills</b>
 </td>
 </tr>
@@ -178,7 +175,7 @@ course. Website for a fictional ONG de animais
 </td>
 </tr>
 </table>
-<!-- LANGUAGES -->
+<!-- END LANGUAGES -->
 
 
 <!-- FRIENDS -->
@@ -218,14 +215,8 @@ course. Website for a fictional ONG de animais
 </td>
 </tr>
 </table>
-<!-- FRIENDS -->
-</div> <!-- END MIDDLE RIGHT -->
-
-
-
-
-
-</div> <!-- CONTENT  -->
+<!-- END FRIENDS -->
+</div>
 
 </div>
 <img src="./assets/borders/bottom.png" width="100%" alt="Bottom Banner" />
