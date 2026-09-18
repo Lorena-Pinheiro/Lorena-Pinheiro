@@ -23,7 +23,7 @@
 
 <tr>
 <td>
-<!-- <img src="./assets/gifs/catTyping.gif" width="284" alt="Cat typing"/> -->
+<img src="./assets/gifs/catTyping.gif" width="284" alt="Cat typing"/>
 <p>"Na minha máquina funciona"</p>
 <p>
 Female<br>
@@ -33,23 +33,6 @@ Brazil
 </p>
 <p>Last Login: 03/03/2005</p>
 </td>
-
-<!-- <td>
-<strong>Hellous, my name’s Lorena but you can call me Lory :D</strong>
-<br/>
-<br/>
-<p>
-I’m a brazilian developer currently working as a junior fullstack.<br/>
-I've been obsessed with computers since forever, from playing<br/>
-random flash games in the browser to now making websites and<br/>
-wondering why my code stopped working. I like making websites<br/>
-with old internet aesthetics, learning about cybersecurity,<br/>
-playing OSU/Minecraft, fantasy stories, romcoms,drawing,<br/>
-and collecting way too many design references.<br/>
-PHP was my first language, so unfortunately we're emotionally<br/>
-attached now.
-</p>
-</td> -->
 
 <td>
 <strong>Hellous, I’m Lorena, but you can call me Lory :D</strong>
@@ -116,11 +99,13 @@ attached now.
 <td>
 <a href="https://github.com/Lorena-Pinheiro/Laranet"><strong>Laranet</strong></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-A PHP framework built from scratch for learning,<br/>inspired by Laravel and .NET (hence the name :P)
+A PHP framework built from scratch for learning,<br/>
+inspired by Laravel and .NET (hence the name :P)
 <br>
 <a href="https://github.com/VoucherDesenvSenacHub/SOSpatinhas"><strong>SOSPatinhas</strong></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Final Project for the Senac Voucher Desenvolvedor course.<br/>Website for a fictional ONG de animais
+Final Project for the Senac Voucher Desenvolvedor<br/>
+course. Website for a fictional ONG de animais
 </td>
 </tr>
 </table>
