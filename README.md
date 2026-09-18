@@ -229,6 +229,13 @@ course. Website for a fictional ONG de animais
 <!-- ENTRY -->
 
   <tr>
+  <td><img width="60" src="https://avatars.githubusercontent.com/u/312966981?v=4" alt="rafael-notacontrol"/></td>
+  <td>
+  <p><a href="https://github.com/rafael-notacontrol"><strong>rafael-notacontrol • 18/09/2026</strong></a><br/>Não confunda cansaço com incapacidade. Talvez você só precise descansar.</p>
+  </td>
+  </tr>
+  
+  <tr>
   <td><img width="60" src="https://avatars.githubusercontent.com/u/92819550?v=4" alt="augustocesarsouza"/></td>
   <td>
   <p><a href="https://github.com/augustocesarsouza"><strong>augustocesarsouza • 18/09/2026</strong></a><br/>Jogue Jogo FPS please!</p>
