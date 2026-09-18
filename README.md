@@ -229,6 +229,13 @@ course. Website for a fictional ONG de animais
 <!-- ENTRY -->
 
   <tr>
+  <td><img width="80" src="https://avatars.githubusercontent.com/u/140553447?v=4" alt="Tewdric"/></td>
+  <td>
+  <p><a href="https://github.com/Lorena-Pinheiro/Lorena-Pinheiro/issues/1#issuecomment-5734753713"><strong>Tewdric • 18/09/2026</strong></a><br/>Em todos esses anos nessa industria vital, essa é a...</p>
+  </td>
+  </tr>
+  
+  <tr>
   <td><img width="80" src="https://avatars.githubusercontent.com/u/92819550?v=4" alt="augustocesarsouza"/></td>
   <td>
   <p><a href="https://github.com/Lorena-Pinheiro/Lorena-Pinheiro/issues/1#issuecomment-5734629028"><strong>augustocesarsouza • 18/09/2026</strong></a><br/>a lorena é muito ruim programadora!!</p>
