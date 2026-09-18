@@ -144,9 +144,9 @@ course. Website for a fictional ONG de animais
 
 <tr>
 <td>
-<a href="https://youtu.be/xaJDTZjh5Po?si=WKE1mzkSSshsYeYA"><img width="174" src="./assets/images/atc.png" alt="gravena" /></a>
-<a href="https://youtu.be/ogr8vMCoDgU?si=YvtBQuQojlLlQqCB"><img width="174" src="./assets/images/s3rl.png" alt="gravena" /></a>
-<a href="https://youtu.be/ou28lmZDR-A?si=0vwvkK5gLtcWYaaV"><img width="174" src="./assets/images/atb.png" alt="gravena" /></a>
+<a href="https://youtu.be/xaJDTZjh5Po?si=WKE1mzkSSshsYeYA"><img width="164" src="./assets/images/atc.png" alt="gravena" /></a>
+<a href="https://youtu.be/ogr8vMCoDgU?si=YvtBQuQojlLlQqCB"><img width="164" src="./assets/images/s3rl.png" alt="gravena" /></a>
+<a href="https://youtu.be/ou28lmZDR-A?si=0vwvkK5gLtcWYaaV"><img width="164" src="./assets/images/atb.png" alt="gravena" /></a>
 <br/>
 &nbsp;
 </td>
