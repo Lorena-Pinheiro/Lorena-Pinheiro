@@ -137,12 +137,23 @@ course. Website for a fictional ONG de animais
 </tr>
 
 <tr>
-<td>
+<!-- <td>
 <a href="https://youtu.be/xaJDTZjh5Po?si=WKE1mzkSSshsYeYA"><img width="150" src="./assets/images/atc.png" alt="gravena" /></a>
 <a href="https://youtu.be/ogr8vMCoDgU?si=YvtBQuQojlLlQqCB"><img width="150" src="./assets/images/s3rl.png" alt="gravena" /></a>
 <a href="https://youtu.be/ou28lmZDR-A?si=0vwvkK5gLtcWYaaV"><img width="150" src="./assets/images/atb.png" alt="gravena" /></a>
 <br/>
 &nbsp;
+</td> -->
+<td>
+<a href="https://github.com/Lorena-Pinheiro/Laranet"><strong>Laranet</strong></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+A PHP framework built from scratch for learning,<br/>
+inspired by Laravel and .NET (hence the name :P)
+<br>
+<a href="https://github.com/VoucherDesenvSenacHub/SOSpatinhas"><strong>SOSPatinhas</strong></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Final Project for the Senac Voucher Desenvolvedor<br/>
+course. Website for a fictional ONG de animais
 </td>
 </tr>
 </table>
