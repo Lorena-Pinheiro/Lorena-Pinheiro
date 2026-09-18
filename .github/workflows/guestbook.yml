@@ -7,6 +7,10 @@ on:
 permissions: 
   contents: write
 
+concurrency:
+  group: guestbook
+  cancel-in-progress: false
+
 jobs:
   update-guestbook:
     if: github.event.issue.number == 1
@@ -67,7 +71,7 @@ jobs:
               `
             }).join('');
 
-            const readme = fs.readFileSync('README.md', 'utf8');
+            let readme = fs.readFileSync('README.md', 'utf8');
             const start = '<!-- ENTRY -->';
             const end = '<!-- END ENTRY -->';
             const regex = new RegExp(`${start}[\\s\\S]*?${end}`);
