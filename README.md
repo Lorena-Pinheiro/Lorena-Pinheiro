@@ -23,7 +23,7 @@
 
 <tr>
 <td>
-<img src="./assets/gifs/catTyping.gif" width="230" alt="Cat typing"/>
+<img src="./assets/gifs/catTyping.gif" width="210" alt="Cat typing"/>
 <p>"Na minha máquina funciona"</p>
 <p>
 Female<br>
@@ -144,9 +144,9 @@ course. Website for a fictional ONG de animais
 
 <tr>
 <td>
-<a href="https://youtu.be/xaJDTZjh5Po?si=WKE1mzkSSshsYeYA"><img width="100" src="./assets/images/atc.png" alt="gravena" /></a>
-<a href="https://youtu.be/ogr8vMCoDgU?si=YvtBQuQojlLlQqCB"><img width="100" src="./assets/images/s3rl.png" alt="gravena" /></a>
-<a href="https://youtu.be/ou28lmZDR-A?si=0vwvkK5gLtcWYaaV"><img width="100" src="./assets/images/atb.png" alt="gravena" /></a>
+<a href="https://youtu.be/xaJDTZjh5Po?si=WKE1mzkSSshsYeYA"><img width="150" src="./assets/images/atc.png" alt="gravena" /></a>
+<a href="https://youtu.be/ogr8vMCoDgU?si=YvtBQuQojlLlQqCB"><img width="150" src="./assets/images/s3rl.png" alt="gravena" /></a>
+<a href="https://youtu.be/ou28lmZDR-A?si=0vwvkK5gLtcWYaaV"><img width="150" src="./assets/images/atb.png" alt="gravena" /></a>
 <br/>
 &nbsp;
 </td>
