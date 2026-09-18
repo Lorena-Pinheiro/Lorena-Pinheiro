@@ -215,6 +215,21 @@ course. Website for a fictional ONG de animais
 <!-- END FRIENDS -->
 
 <p><img src="./assets/gifs/blue.gif" width="200" alt="Blue"/></p>
+
+<!-- GUESTBOOK -->
+<table align="center">
+<tr>
+<td colspan="2">
+<p>
+<strong>Lorena’s Guestbook <a href="https://github.com/Lorena-Pinheiro/Lorena-Pinheiro/issues/1">(add an entry)</a></strong>
+</p>
+</td>
+</tr>
+
+<!-- ENTRY -->
+<!-- END ENTRY -->
+</table>
+<!-- END GUESTBOOK -->
 </div>
 
 </div>
