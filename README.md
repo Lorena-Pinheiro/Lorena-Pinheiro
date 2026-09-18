@@ -229,6 +229,13 @@ course. Website for a fictional ONG de animais
 <!-- ENTRY -->
 
   <tr>
+  <td><img width="60" src="https://avatars.githubusercontent.com/u/92819550?v=4" alt="augustocesarsouza"/></td>
+  <td>
+  <p><a href="https://github.com/augustocesarsouza"><strong>augustocesarsouza • 18/09/2026</strong></a><br/>Jogue Jogo FPS please!</p>
+  </td>
+  </tr>
+  
+  <tr>
   <td><img width="60" src="https://avatars.githubusercontent.com/u/100919012?v=4" alt="neliocarlos"/></td>
   <td>
   <p><a href="https://github.com/neliocarlos"><strong>neliocarlos • 18/09/2026</strong></a><br/>Beba água</p>
