@@ -11,7 +11,7 @@
 <br />
 
 <!-- PROFILE -->
-<table align="left">
+<table align="center">
 <tr>
 <td>
 <b>Lorena-Pinheiro</b>
@@ -34,7 +34,7 @@ Brazil
 <p>Last Login: 03/03/2005</p>
 </td>
 
-<td>
+<!-- <td>
 <strong>Hellous, my name’s Lorena but you can call me Lory :D</strong>
 <br/>
 <br/>
@@ -47,6 +47,19 @@ with old internet aesthetics, learning about cybersecurity,<br/>
 playing OSU/Minecraft, fantasy stories, romcoms,drawing,<br/>
 and collecting way too many design references.<br/>
 PHP was my first language, so unfortunately we're emotionally<br/>
+attached now.
+</p>
+</td> -->
+
+<td>
+<strong>Hellous, I’m Lorena, but you can call me Lory :D</strong>
+<br/>
+<br/>
+<p>
+Brazilian junior fullstack dev, computer enthusiast, and lover of<br>
+old internet aesthetics, cybersecurity, OSU/Minecraft, fantasy,<br>
+romcoms, drawing, and design references.<br>
+PHP was my first language, so unfortunately we’re emotionally<br>
 attached now.
 </p>
 </td>
