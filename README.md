@@ -23,7 +23,7 @@
 
 <tr>
 <td>
-<img src="./assets/gifs/catTyping.gif" width="284" alt="Cat typing"/>
+<img src="./assets/gifs/catTyping.gif" width="200" alt="Cat typing"/>
 <p>"Na minha máquina funciona"</p>
 <p>
 Female<br>
