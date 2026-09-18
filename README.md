@@ -185,30 +185,30 @@ course. Website for a fictional ONG de animais
 
 <tr>
 <td>
-<a href="https://github.com/Yasmin-Leticia">Min<br><img width="45" src="https://avatars.githubusercontent.com/u/168841986?v=4" alt="yasmin" /></a>
+<a href="https://github.com/Yasmin-Leticia">Min<br><img width="55" src="https://avatars.githubusercontent.com/u/168841986?v=4" alt="yasmin" /></a>
 </td>
 <td>
-<a href="https://github.com/iz4bella">Bela<br><img width="45" src="https://avatars.githubusercontent.com/u/168841645?v=4" alt="bella" /></a>
+<a href="https://github.com/iz4bella">Bela<br><img width="55" src="https://avatars.githubusercontent.com/u/168841645?v=4" alt="bella" /></a>
 </td>
 <td>
-<a href="https://github.com/KauaOSantos">Kauã<br><img width="45" src="https://avatars.githubusercontent.com/u/168841427?v=4" alt="kaua" /></a>
+<a href="https://github.com/KauaOSantos">Kauã<br><img width="55" src="https://avatars.githubusercontent.com/u/168841427?v=4" alt="kaua" /></a>
 </td>
 <td>
-<a href="https://github.com/augustocesarsouza">Guto<br><img width="45" src="https://avatars.githubusercontent.com/u/92819550?v=4" alt="augusto" /></a>
+<a href="https://github.com/augustocesarsouza">Guto<br><img width="55" src="https://avatars.githubusercontent.com/u/92819550?v=4" alt="augusto" /></a>
 </td>
 </tr>
 <tr>
 <td>
-<a href="https://github.com/Tewdric">Manoel<br><img width="45" src="https://avatars.githubusercontent.com/u/140553447?v=4" alt="manoel" /></a>
+<a href="https://github.com/Tewdric">Manoel<br><img width="55" src="https://avatars.githubusercontent.com/u/140553447?v=4" alt="manoel" /></a>
 </td>
 <td>
-<a href="https://github.com/Marllon-Wski">Marllon<br><img width="45" src="https://avatars.githubusercontent.com/u/100104015?v=4" alt="marllon" /></a>
+<a href="https://github.com/Marllon-Wski">Marllon<br><img width="55" src="https://avatars.githubusercontent.com/u/100104015?v=4" alt="marllon" /></a>
 </td>
 <td>
-<a href="https://github.com/GravenaBarros">Gravena<br><img width="45" src="https://avatars.githubusercontent.com/u/132004805?v=4" alt="gravena" /></a>
+<a href="https://github.com/GravenaBarros">Gravena<br><img width="55" src="https://avatars.githubusercontent.com/u/132004805?v=4" alt="gravena" /></a>
 </td>
 <td>
-<a href="https://github.com/bycato">Cato<br><img width="45" src="https://avatars.githubusercontent.com/u/201806339?v=4" alt="cato" /></a>
+<a href="https://github.com/bycato">Cato<br><img width="55" src="https://avatars.githubusercontent.com/u/201806339?v=4" alt="cato" /></a>
 </td>
 </tr>
 </table>
