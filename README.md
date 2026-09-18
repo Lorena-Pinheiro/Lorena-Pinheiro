@@ -63,20 +63,17 @@ attached now.
 <p>
 <!-- Linkedin -->
 <img src="./assets/images/linkedin.png" alt="Gmail Logo" /> 
-<a href="#">
-<strong>Lorena Pinheiro</strong>
+<a href="#"><strong>Lorena Pinheiro</strong></a>
 <br>
 
 <!-- Gmail -->
 <img src="./assets/images/gmail.png" alt="Gmail Logo" /> 
-<a href="#">
-<strong>loryfpinheiro@gmail.com</strong>
+<a href="#"><strong>loryfpinheiro@gmail.com</strong></a>
 <br>
 
 <!-- Discord -->
 <img src="./assets/images/discord.png" alt="Discord Logo" /> 
-<a href="#">
-<strong>Lorys</strong>
+<a href="#"><strong>Lorys</strong></a>
 </p>
 </td>
 </tr>
@@ -181,7 +178,7 @@ course. Website for a fictional ONG de animais
 <!-- FRIENDS -->
 <table align="right">
 <tr>
-<td colspan="8">
+<td colspan="4">
 <b>Lorena’s Friend Space (Top 8)</b>
 </td>
 </tr>
