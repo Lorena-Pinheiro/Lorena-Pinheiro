@@ -12,17 +12,12 @@
 <!-- PROFILE -->
 <table align="center">
 <tr>
-<td>
-<b>Lorena-Pinheiro</b>
-</td>
-<td>
-<b>About Me</b>
-</td>
+<th width="250">Lorena-Pinheiro</th>
+<th width="320">About Me</th>
 </tr>
-
 <tr>
-<td>
-<img src="./assets/gifs/catTyping.gif" width="210" alt="Cat typing"/>
+<td valign="top">
+<img src="./assets/gifs/catTyping.gif" width="150" alt="Cat typing"/>
 <p>"Na minha máquina funciona"</p>
 <p>
 Female<br>
@@ -32,16 +27,15 @@ Brazil
 </p>
 <p>First Login: 03/03/2005</p>
 </td>
-
-<td>
+<td valign="top">
 <strong>Hellous, I’m Lorena, but you can call me Lory :D</strong>
-<br/>
-<br/>
 <p>
-Brazilian junior fullstack dev, computer enthusiast, and lover of<br>
-old internet aesthetics, cybersecurity, OSU/Minecraft, fantasy,<br>
-romcoms, drawing, and design references.<br>
-PHP was my first language, so unfortunately we’re emotionally<br>
+Brazilian junior fullstack dev, computer enthusiast, and lover of
+old internet aesthetics, cybersecurity, OSU/Minecraft, fantasy,
+romcoms, drawing, and design references.
+</p>
+<p>
+PHP was my first language, so unfortunately we’re emotionally
 attached now.
 </p>
 </td>
