@@ -5,8 +5,8 @@
 <img src="./assets/borders/left.png" width="8.546875%" align="left" alt="Left Banner" />
 <img src="./assets/borders/right.png" width="8.546875%" align="right" alt="Right Banner" />
 
-<!-- <div> CONTENT  -->
-<div align="center">  <!-- TOP  -->
+
+<div align="center">
 <br />
 
 <!-- PROFILE -->
@@ -84,22 +84,24 @@ attached now.
 <!-- PROJECTS -->
 <table align="right">
 <tr>
-<td>
+<td colspan="2">
 <b>Lorena’s Latest Projects</b>
 </td>
 </tr>
 
 <tr>
+<td><a href="https://github.com/Lorena-Pinheiro/Laranet"><strong>Laranet</strong></a></td>
 <td>
-<a href="https://github.com/Lorena-Pinheiro/Laranet"><strong>Laranet</strong></a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-A PHP framework built from scratch for learning,<br/>
-inspired by Laravel and .NET (hence the name :P)
-<br>
-<a href="https://github.com/VoucherDesenvSenacHub/SOSpatinhas"><strong>SOSPatinhas</strong></a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Final Project for the Senac Voucher Desenvolvedor<br/>
-course. Website for a fictional ONG de animais
+<p>A PHP framework built from scratch for learning,<br/>
+inspired by Laravel and .NET (hence the name :P)</p>
+</td>
+</tr>
+
+<tr>
+<td><a href="https://github.com/VoucherDesenvSenacHub/SOSpatinhas"><strong>SOSPatinhas</strong></a></td>
+<td>
+<p>Final Project for the Senac Voucher Desenvolvedor<br/>
+course. Website for a fictional ONG de animais</p>
 </td>
 </tr>
 </table>
@@ -272,8 +274,8 @@ course. Website for a fictional ONG de animais
 <p>Profile inspired by: 
 <a href="https://github.com/BrunnerLivio">Livio Brunner</a>, 
 <a href="https://github.com/fnky">Christian Petersen</a>, 
-<a href="https://github.com/ram6738">commitSpring</a>,
 <a href="https://github.com/ibtriz">Beatriz</a>
+<a href="https://github.com/ram6738">commitSpring</a>,
 </p>
 <!-- END INSPIRED BY -->
 </div>
