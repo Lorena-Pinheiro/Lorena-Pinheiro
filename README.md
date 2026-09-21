@@ -108,30 +108,37 @@ course. Website for a fictional animal welfare<br/>organization.</p>
 <!-- END PROJECTS -->
 
 
-<!-- LANGUAGES -->
+<!-- SKILLS -->
 <table align="left">
 <tr>
 <td>
-<b>Lorena’s Languages Skills</b>
+<b>Lorena’s Skills</b>
 </td>
 </tr>
 
 <tr>
 <td>
 <p>
-<strong>Portuguese</strong><span>&nbsp;&nbsp;</span> 
-<img src="./assets/images/ptBrLvl.png" alt="PT BR level" /> 
-<br>
-<strong>English</strong><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> 
-<img src="./assets/images/engLvl.png" alt="PT BR level" /> 
-<br>
-<strong>Japanese</strong><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> 
-<img src="./assets/images/jpLvl.png" alt="PT BR level" /> 
+<img src="./assets/gifs/angular.gif" width="65"/>
+<img src="./assets/gifs/react.gif" width="65"/>
+<img src="./assets/gifs/laravel.gif" width="65"/>
+<br/>
+<img src="./assets/gifs/dotnet.gif" width="65"/>
+<img src="./assets/gifs/mysql.gif" width="65"/>
+<img src="./assets/gifs/sqlserver.gif" width="65"/>
+<br/>
+<img src="./assets/gifs/php.gif" width="65"/>
+<img src="./assets/gifs/c.gif" width="65"/>
+<img src="./assets/gifs/csharp.gif" width="65"/>
+<br/>
+<img src="./assets/gifs/python.gif" width="65"/>
+<img src="./assets/gifs/javascript.gif" width="65"/>
+<img src="./assets/gifs/typescript.gif" width="65"/>
 </p>
 </td>
 </tr>
 </table>
-<!-- END LANGUAGES -->
+<!-- END SKILLS -->
 
 
 <!-- MUSIC -->
@@ -163,35 +170,30 @@ width="400"
 <!-- END MUSIC -->
 
 
-<!-- SKILLS -->
+<!-- LANGUAGES -->
 <table align="left">
 <tr>
 <td>
-<b>Lorena’s Skills</b>
+<b>Lorena’s Languages Skills</b>
 </td>
 </tr>
 
 <tr>
 <td>
-<picture width="10"><img src="./assets/gifs/angular.gif"/></picture>
-<picture width="10"><img src="./assets/gifs/react.gif"/></picture>
-<picture width="10"><img src="./assets/gifs/laravel.gif"/></picture>
-<br/>
-<picture width="10"><img src="./assets/gifs/dotnet.gif"/></picture>
-<picture width="10"><img src="./assets/gifs/mysql.gif"/></picture>
-<picture width="10"><img src="./assets/gifs/sqlserver.gif"/></picture>
-<br/>
-<picture width="10"><img src="./assets/gifs/php.gif"/></picture>
-<picture width="10"><img src="./assets/gifs/c.gif"/></picture>
-<picture width="10"><img src="./assets/gifs/csharp.gif"/></picture>
-<br/>
-<picture width="10"><img src="./assets/gifs/python.gif"/></picture>
-<picture width="10"><img src="./assets/gifs/javascript.gif"/></picture>
-<picture width="10"><img src="./assets/gifs/typescript.gif"/></picture>
+<p>
+<strong>Portuguese</strong><span>&nbsp;&nbsp;</span> 
+<img src="./assets/images/ptBrLvl.png" alt="PT BR level" /> 
+<br>
+<strong>English</strong><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> 
+<img src="./assets/images/engLvl.png" alt="PT BR level" /> 
+<br>
+<strong>Japanese</strong><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> 
+<img src="./assets/images/jpLvl.png" alt="PT BR level" /> 
+</p>
 </td>
 </tr>
 </table>
-<!-- END SKILLS -->
+<!-- END LANGUAGES -->
 
 
 <!-- FRIENDS -->
