@@ -118,12 +118,21 @@ course. Website for a fictional ONG de animais</p>
 
 <tr>
 <td>
-<p>
-<strong>Frontend:</strong> Angular, React<br/>
-<strong>Backend:</strong> Laravel, .Net<br/>
-<strong>Database:</strong> MySql, SQLServer<br/>
-<strong>Languages:</strong> PHP, C, C#,<br/>Python, Javascript, Typescript
-</p>
+<picture><img src="./assets/gifs/angular.gif"/></picture>
+<picture><img src="./assets/gifs/react.gif"/></picture>
+<picture><img src="./assets/gifs/laravel.gif"/></picture>
+<br/>
+<picture><img src="./assets/gifs/dotnet.gif"/></picture>
+<picture><img src="./assets/gifs/mysql.gif"/></picture>
+<picture><img src="./assets/gifs/sqlserver.gif"/></picture>
+<br/>
+<picture><img src="./assets/gifs/php.gif"/></picture>
+<picture><img src="./assets/gifs/c.gif"/></picture>
+<picture><img src="./assets/gifs/csharp.gif"/></picture>
+<br/>
+<picture><img src="./assets/gifs/python.gif"/></picture>
+<picture><img src="./assets/gifs/javascript.gif"/></picture>
+<picture><img src="./assets/gifs/typescript.gif"/></picture>
 </td>
 </tr>
 </table>
