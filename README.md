@@ -101,7 +101,7 @@ inspired by Laravel and .NET (hence the name :P)</p>
 <td><a href="https://github.com/VoucherDesenvSenacHub/SOSpatinhas"><strong>SOSPatinhas</strong></a></td>
 <td>
 <p>Final Project for the Senac Voucher Desenvolvedor<br/>
-course. Website for a fictional animal welfare organization.</p>
+course. Website for a fictional animal welfare<br/>organization.</p>
 </td>
 </tr>
 </table>
