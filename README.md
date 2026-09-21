@@ -119,21 +119,10 @@ course. Website for a fictional animal welfare<br/>organization.</p>
 <tr>
 <td>
 <p>
-<img src="./assets/gifs/angular.gif" width="65"/>
-<img src="./assets/gifs/react.gif" width="65"/>
-<img src="./assets/gifs/laravel.gif" width="65"/>
-<br/>
-<img src="./assets/gifs/dotnet.gif" width="65"/>
-<img src="./assets/gifs/mysql.gif" width="65"/>
-<img src="./assets/gifs/sqlserver.gif" width="65"/>
-<br/>
-<img src="./assets/gifs/php.gif" width="65"/>
-<img src="./assets/gifs/c.gif" width="65"/>
-<img src="./assets/gifs/csharp.gif" width="65"/>
-<br/>
-<img src="./assets/gifs/python.gif" width="65"/>
-<img src="./assets/gifs/javascript.gif" width="65"/>
-<img src="./assets/gifs/typescript.gif" width="65"/>
+<strong>Frontend:</strong> Angular, React<br/>
+<strong>Backend:</strong> Laravel, .Net<br/>
+<strong>Database:</strong> MySql, SQLServer<br/>
+<strong>Languages:</strong> PHP, C, C#,<br/>Python, Javascript, Typescript
 </p>
 </td>
 </tr>
