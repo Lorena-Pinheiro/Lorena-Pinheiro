@@ -101,7 +101,7 @@ inspired by Laravel and .NET (hence the name :P)</p>
 <td><a href="https://github.com/VoucherDesenvSenacHub/SOSpatinhas"><strong>SOSPatinhas</strong></a></td>
 <td>
 <p>Final Project for the Senac Voucher Desenvolvedor<br/>
-course. Website for a fictional ONG de animais</p>
+course. Website for a fictional animal welfare organization.</p>
 </td>
 </tr>
 </table>
@@ -118,21 +118,21 @@ course. Website for a fictional ONG de animais</p>
 
 <tr>
 <td>
-<picture width="20%"><img src="./assets/gifs/angular.gif"/></picture>
-<picture width="20%"><img src="./assets/gifs/react.gif"/></picture>
-<picture width="20%"><img src="./assets/gifs/laravel.gif"/></picture>
+<picture width="10"><img src="./assets/gifs/angular.gif"/></picture>
+<picture width="10"><img src="./assets/gifs/react.gif"/></picture>
+<picture width="10"><img src="./assets/gifs/laravel.gif"/></picture>
 <br/>
-<picture width="20%"><img src="./assets/gifs/dotnet.gif"/></picture>
-<picture width="20%"><img src="./assets/gifs/mysql.gif"/></picture>
-<picture width="20%"><img src="./assets/gifs/sqlserver.gif"/></picture>
+<picture width="10"><img src="./assets/gifs/dotnet.gif"/></picture>
+<picture width="10"><img src="./assets/gifs/mysql.gif"/></picture>
+<picture width="10"><img src="./assets/gifs/sqlserver.gif"/></picture>
 <br/>
-<picture width="20%"><img src="./assets/gifs/php.gif"/></picture>
-<picture width="20%"><img src="./assets/gifs/c.gif"/></picture>
-<picture width="20%"><img src="./assets/gifs/csharp.gif"/></picture>
+<picture width="10"><img src="./assets/gifs/php.gif"/></picture>
+<picture width="10"><img src="./assets/gifs/c.gif"/></picture>
+<picture width="10"><img src="./assets/gifs/csharp.gif"/></picture>
 <br/>
-<picture width="20%"><img src="./assets/gifs/python.gif"/></picture>
-<picture width="20%"><img src="./assets/gifs/javascript.gif"/></picture>
-<picture width="20%"><img src="./assets/gifs/typescript.gif"/></picture>
+<picture width="10"><img src="./assets/gifs/python.gif"/></picture>
+<picture width="10"><img src="./assets/gifs/javascript.gif"/></picture>
+<picture width="10"><img src="./assets/gifs/typescript.gif"/></picture>
 </td>
 </tr>
 </table>
