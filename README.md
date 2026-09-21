@@ -140,11 +140,19 @@ course. Website for a fictional ONG de animais</p>
 
 <tr>
 <td>
-<a href="https://youtu.be/xaJDTZjh5Po?si=WKE1mzkSSshsYeYA"><img width="135" src="./assets/images/atc.png" alt="gravena" /></a>
-<a href="https://youtu.be/ogr8vMCoDgU?si=YvtBQuQojlLlQqCB"><img width="135" src="./assets/images/s3rl.png" alt="gravena" /></a>
-<a href="https://youtu.be/ou28lmZDR-A?si=0vwvkK5gLtcWYaaV"><img width="135" src="./assets/images/atb.png" alt="gravena" /></a>
-<br>
-<br>
+<a href="https://open.spotify.com/user/583f891p2x1aktlqnp7y782el?si=97c7e20dbc1940c1">
+<picture>
+<source
+media="(prefers-color-scheme: dark)"
+srcset="https://raw.githubusercontent.com/Lorena-Pinheiro/Lorena-Pinheiro/vinilo/vinilo-dark.svg"
+/>
+
+<img
+src="https://raw.githubusercontent.com/Lorena-Pinheiro/Lorena-Pinheiro/vinilo/vinilo.svg"
+width="400"
+/>
+</picture>
+</a>
 </td>
 </tr>
 </table>
