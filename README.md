@@ -12,8 +12,8 @@
 <!-- PROFILE -->
 <table align="center">
 <tr>
-<th width="250">Lorena-Pinheiro</th>
-<th width="320">About Me</th>
+<th width="220">Lorena-Pinheiro</th>
+<th width="250">About Me</th>
 </tr>
 <tr>
 <td valign="top">
