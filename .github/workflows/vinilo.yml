@@ -23,4 +23,5 @@ jobs:
           client-id: ${{ secrets.SPOTIFY_CLIENT_ID }}
           client-secret: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
           refresh-token: ${{ secrets.SPOTIFY_REFRESH_TOKEN }}
+          count: 1
           publish-to: vinilo
