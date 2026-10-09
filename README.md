@@ -2,8 +2,8 @@
 <img src="./assets/borders/top.png" width="100%" align="center" alt="Top Banner" />
 
 <div>
-<img src="./assets/borders/left.png" width="6.246875%" align="left" alt="Left Banner" />
-<img src="./assets/borders/right.png" width="6.24685%" align="right" alt="Right Banner" />
+<img src="./assets/borders/left.png" width="4.66875%" align="left" alt="Left Banner" />
+<img src="./assets/borders/right.png" width="4.6685%" align="right" alt="Right Banner" />
 
 
 <div align="center">
